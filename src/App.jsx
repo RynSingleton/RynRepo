@@ -13,8 +13,20 @@ function App() {
       <main>
         <div className='app-container'>
             <ListContainer>
-              <ProjectList title="Software"/>
-              <ProjectList title="Code"/>
+              <ProjectList title="Software">
+                <ul>
+                  <li>Tea Garden</li>
+                  <li>Notion to GCal</li>
+                  <li>Luminescense End2End</li>
+                </ul>
+              </ProjectList>
+              <ProjectList title="Writing">
+                <ul>
+                <li>Tea Garden</li>
+                <li>Where the Tea Grows</li>
+                <li>The Logic Problem</li>
+                </ul>
+              </ProjectList>
             </ListContainer>
           <ContentPane />
         </div>

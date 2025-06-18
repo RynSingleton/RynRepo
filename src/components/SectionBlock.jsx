@@ -1,12 +1,10 @@
-export default function SectionBlock({ children, height = 'auto' }) {
+export default function SectionBlock({ children, height = 'auto', className }) {
   return (
     <section style={{
       height,
       position: 'relative',
       overflow: 'hidden',
-      display: 'flex',
-      alignItems: 'stretch'
-    }}>
+    }} className={className}>
       {children}
     </section>
   );

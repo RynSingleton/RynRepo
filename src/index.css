@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "QuicksandRegular";
+  src: local("QuicksandRegular"),
+   url("./fonts/Quicksand/static/Quicksand-Regular.ttf") format("truetype");
+ }
+ 

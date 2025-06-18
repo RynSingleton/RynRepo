@@ -1,6 +1,6 @@
-export default function SectionBlock({ children }) {
+export default function ListContainer({ children, className }) {
   return (
-    <section>
+    <section className={className}>
       <div>{children}</div>
     </section>
   );

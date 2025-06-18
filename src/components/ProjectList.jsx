@@ -1,9 +1,9 @@
-export default function ProjectList({title, list}) {
+export default function ProjectList({title, children}) {
   return (
-    <div>
+    <div className="projectlist-container">
       <h3>{ title }</h3>
-      <div>
-        { list }  
+      <div className="projectlist-items">
+        { children }  
       </div>
     </div>
   );
