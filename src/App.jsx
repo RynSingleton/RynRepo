@@ -3,12 +3,13 @@ import './App.css';
 import ProjectList from './components/ProjectList';
 import ContentPane from './components/ContentPane';
 import ListContainer from './components/ListContainer';
+import PageHeader from './components/PageHeader';
 
 function App() {
   return (
     <div className="app">
-      <header className="app-header">
-
+      <header>
+        <PageHeader className="app-header"/>
       </header>
       <main>
         <div className='app-container'>
