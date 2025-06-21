@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/RynRepo/static/css/main.b5e884d8.css",
+    "main.js": "/RynRepo/static/js/main.a2d4af50.js",
+    "static/js/453.39cb1b3e.chunk.js": "/RynRepo/static/js/453.39cb1b3e.chunk.js",
+    "static/media/profile.jpg": "/RynRepo/static/media/profile.bd73cd5e88384a70d611.jpg",
+    "static/media/Quicksand-Regular.ttf": "/RynRepo/static/media/Quicksand-Regular.0deed939016c22a3a9f5.ttf",
+    "static/media/blog.png": "/RynRepo/static/media/blog.48fc9ea04a25f196a5c0.png",
+    "static/media/letter-n.png": "/RynRepo/static/media/letter-n.8fb25743ba0f700bb543.png",
+    "static/media/idea.png": "/RynRepo/static/media/idea.d440688b66ca1c94eac6.png",
+    "index.html": "/RynRepo/index.html",
+    "main.b5e884d8.css.map": "/RynRepo/static/css/main.b5e884d8.css.map",
+    "main.a2d4af50.js.map": "/RynRepo/static/js/main.a2d4af50.js.map",
+    "453.39cb1b3e.chunk.js.map": "/RynRepo/static/js/453.39cb1b3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5e884d8.css",
+    "static/js/main.a2d4af50.js"
+  ]
+}
